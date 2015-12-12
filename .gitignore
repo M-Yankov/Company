@@ -4,12 +4,14 @@
 # StyleCop Cache
 *.Cache
 *.cache
+StyleCop.Cache
 
 # User-specific files
 *.suo
 *.user
 *.userosscache
 *.sln.docstates
+StyleCop.Cache
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
